@@ -1,0 +1,49 @@
+html, body { height:100%; margin:0; padding:0 }
+div { float: left; width:50%; height:50% }
+#tl {    background:orange;
+	text-align:center;
+	font-size:25px;
+
+
+  }
+#t2 { background:blue;
+	  text-align:center;
+	  text-align:center;
+	  font-size:25px;
+
+
+
+
+}
+
+#t3 { background:green;
+	  text-align:center;
+	  text-align:center;
+	  font-size:25px;   
+
+
+
+}
+
+#t4 { background:red;
+	  text-align:center;
+	  text-align:center;
+	  font-size:25px;      
+
+
+}
+
+h1{
+	margin-bottom:2em;
+	font-family: 'digital';
+
+}
+
+@font-face{
+	font-family: 'digital';
+	src: url('fonts/Digital-7.ttf') format('truetype');
+		
+
+
+
+}
